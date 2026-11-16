@@ -1,4 +1,4 @@
-# Hiring Challenges — Robotics Engineer
+# Challenges — Robotics Engineer
 
 This repository contains the take-home coding challenges
 
